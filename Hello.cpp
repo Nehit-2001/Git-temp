@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
 {
-    int a=5, b=6;
+    int a=5, b=6, d=8;
     int c;
 
-    c = a+b;
+    c = a+b+d;
     cout<<"Sum = "<<c<<endl;
     return 0;
 }
